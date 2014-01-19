@@ -1,0 +1,10 @@
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\bin\Debug\FTPTest.exe
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\bin\Debug\FTPTest.pdb
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\bin\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\bin\Debug\OpenNETCF.Net.Ftp.pdb
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\obj\Debug\FTPTest.Form1.resources
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\obj\Debug\FTPTest.Properties.Resources.resources
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\obj\Debug\FTPTest.csproj.GenerateResource.Cache
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\obj\Debug\FTPTest.exe
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\FTPTest\obj\Debug\FTPTest.pdb

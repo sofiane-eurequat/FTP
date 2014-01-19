@@ -1,0 +1,5 @@
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\bin\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\bin\Debug\OpenNETCF.Net.Ftp.pdb
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\obj\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\sofiane\Desktop\OpenNETCF.Net.Ftp\obj\Debug\OpenNETCF.Net.Ftp.pdb
